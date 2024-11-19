@@ -13,7 +13,7 @@
     "@types/react-dom": "^16.9.6",
     "@types/react-highlighter": "^0.3.4",
     "@types/react-router-dom": "^5.1.5",
-    "firebase": "^7.15.4",
+    "firebase": "^10.9.0",
     "framer-motion": "^2.9.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
